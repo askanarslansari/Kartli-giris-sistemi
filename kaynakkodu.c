@@ -7,8 +7,8 @@
 #include <EEPROM.h>             // Kalıcı hafıza
 
 // Wi-Fi kimlik bilgileri
-const char* WIFI_SSID = "YOUR_WIFI_SSID";
-const char* WIFI_PASS = "YOUR_WIFI_PASS";
+const char* WIFI_SSID = "Teknopark";
+const char* WIFI_PASS = "şifre gizli";
 
 // Web arayüzü (Digest) kullanıcı/parola
 const char* WEB_USER = "admin";
